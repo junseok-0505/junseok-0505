@@ -1,4 +1,4 @@
-# Welcome to my github 👋
+# Welcome to Junseok github 👋
 
 ## Profile
 
