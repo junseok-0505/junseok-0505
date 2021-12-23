@@ -8,7 +8,7 @@
 - 🏫 University & major: Hongik Uni. Industrial Engineering Undergraduate Student
 - :tada: Award: 2020 Hongik University Data Analysis Competition Second Prize / 2021 Mentoring based AI competition Encouragement Award
 - :computer:  Interests: Data Analysis, Data Science, Time series Analysis, CBM/PHM
-- :runner:  Now: Hongik Uni PHM Lab Undergraduate Researcher
+- :runner:  Career: 2020 - 2021: Hongik Uni PHM Lab Undergraduate Researcher / 2022 - : Hankook Tire Facility Technology Development Team
 
 - 💬 Ask me about ... mae03250@gmail.com
 
