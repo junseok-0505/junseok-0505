@@ -12,7 +12,7 @@
 - :computer:  Interests: Data Analysis, Data Science, Time series Analysis, CBM/PHM
 - :runner:  Career: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2020 - 2021: Hongik Uni PHM Lab Undergraduate Researcher <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2022 - : Hankook Tire Facility Technology Development Team
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2022 - : Hankook Tire Production Strategy Team
 
 - 💬 Ask me about ... mae03250@gmail.com
 
